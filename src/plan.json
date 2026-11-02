@@ -1,0 +1,4371 @@
+{
+ "title": "Träningsprogram simning och löpning, november 2026 till september 2027",
+ "intro": "5 pass per vecka, bara simning och löpning. 47 veckor från måndag 2 november 2026 till Lidingöloppet 25 september 2027. Veckoplanen ligger på bladet Veckoplan, passen beskrivs i Passbibliotek och utfallet förs i Logg.",
+ "races": [
+  {
+   "date": "2027-05-08",
+   "name": "Kungsholmen Runt",
+   "dist": "10 km löpning",
+   "week": "v.18",
+   "note": "Datum enligt Peter. Delmål och tempotest på vägen mot Klassikern.",
+   "id": "khr"
+  },
+  {
+   "date": "2027-07-10",
+   "name": "Vansbrosimningen",
+   "dist": "3000 m öppet vatten",
+   "week": "v.27",
+   "note": "Tävlingsveckan är 3-10 juli 2027 enligt vansbrosimningen.se, huvudloppet simmas lördag 10 juli. Första Klassiker-loppet.",
+   "id": "vansbro"
+  },
+  {
+   "date": "2027-09-25",
+   "name": "TCS Lidingöloppet",
+   "dist": "30 km terräng, 522 m stigning",
+   "week": "v.38",
+   "note": "Datum enligt lidingoloppet.se. Kontrolltider och sista startgrupp 14:30 finns i Passbibliotek. Andra Klassiker-loppet.",
+   "id": "lidingo"
+  }
+ ],
+ "phases": [
+  {
+   "name": "Grund",
+   "weeks": "v.45 till v.53 2026",
+   "period": "2 nov 2026 till 3 jan 2027",
+   "perWeek": "3 löp + 2 sim",
+   "focus": "Rutin, aerob bas, simteknik från kursen. Löpning inom 10 km-taket."
+  },
+  {
+   "name": "Uppbyggnad",
+   "weeks": "v.1 till v.12 2027",
+   "period": "4 jan 2027 till 28 mar 2027",
+   "perWeek": "3 löp + 2 sim",
+   "focus": "Långpasset växer 10 till 14 km, 10 km-specifika kvalitetspass, 5 km-test v.10. Simning mot 2000 m sammanhängande."
+  },
+  {
+   "name": "Specifik & toppning",
+   "weeks": "v.13 till v.18 2027",
+   "period": "29 mar 2027 till 9 maj 2027",
+   "perWeek": "3 löp + 2 sim",
+   "focus": "Måltempo-pass, längsta långpass 15 km, nedtrappning och Kungsholmen Runt 8 maj. Simning 2500 m sammanhängande."
+  },
+  {
+   "name": "Vansbro",
+   "weeks": "v.19 till v.27 2027",
+   "period": "10 maj 2027 till 11 jul 2027",
+   "perWeek": "3 sim + 2 löp",
+   "focus": "Simningen tar över: intervaller och distans i bassäng, öppet vatten på söndagar, genrep 3000 m. Löpning: terräng och långpass 12-15 km."
+  },
+  {
+   "name": "Lidingö",
+   "weeks": "v.28 till v.38 2027",
+   "period": "12 jul 2027 till 26 sep 2027",
+   "perWeek": "4 löp + 1 sim",
+   "focus": "Långpasset växer 14 till 24 km i kuperad terräng, backar och terrängfartlek. Nedtrappning två veckor, Lidingöloppet 25 sep."
+  }
+ ],
+ "templates": {
+  "Grund": [
+   "Simkurs 19:00 (eller teknik)",
+   "Löpning lätt 5-6 km",
+   "Simning distans/intervall",
+   "Vila",
+   "Löpning kvalitet 6-8 km",
+   "Vila",
+   "Långpass 7-10 km"
+  ],
+  "Uppbyggnad": [
+   "Simkurs 19:00 (eller teknik)",
+   "Löpning lätt 5-7 km",
+   "Simning distans/intervall",
+   "Vila",
+   "Löpning kvalitet 8-9 km",
+   "Vila",
+   "Långpass 10-14 km"
+  ],
+  "Specifik & toppning": [
+   "Simkurs 19:00 (eller teknik)",
+   "Löpning lätt 5-7 km",
+   "Simning distans/intervall",
+   "Vila",
+   "Löpning måltempo 8-10 km",
+   "Vila",
+   "Långpass 10-15 km"
+  ],
+  "Vansbro": [
+   "Simkurs/teknik, sighting",
+   "Löpning terräng/backar 8-9 km",
+   "Simning intervall/distans 2-3 km",
+   "Vila",
+   "Långpass terräng 12-15 km",
+   "Vila",
+   "Öppet vatten 0,8-3 km"
+  ],
+  "Lidingö": [
+   "Simning återhämtning 1,5 km",
+   "Löpning lätt 6-8 km",
+   "Löpning terräng/backar 8-10 km",
+   "Vila",
+   "Löpning lätt 5-7 km",
+   "Vila",
+   "Långpass terräng 14-24 km"
+  ]
+ },
+ "weeks": [
+  {
+   "id": "2026-45",
+   "label": "v.45",
+   "monday": "2026-11-02",
+   "phase": "Grund",
+   "type": "Normal",
+   "runKm": 19,
+   "swimM": 2100,
+   "longRun": 8,
+   "longSwim": 200,
+   "focus": "Rutin först: få fem pass på plats. Simning: ta andning och kroppsläge från kursen in i onsdagspasset.",
+   "days": [
+    {
+     "date": "2026-11-02",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2026-11-04",
+     "title": "SIM Distans",
+     "desc": "400 m drillar + 6×100 m lugnt (20 s vila) + 200 m lugnt",
+     "dist": {
+      "v": 1200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2026-11-05",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-11-06",
+     "title": "LÖP Kvalitet",
+     "desc": "Fartlek: 8×1 min fort / 1 min lugnt (zon 4). 10 min uppv, 5 min nedv",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-fartlek"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-11-08",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2026-46",
+   "label": "v.46",
+   "monday": "2026-11-09",
+   "phase": "Grund",
+   "type": "Normal",
+   "runKm": 21,
+   "swimM": 2200,
+   "longRun": 9,
+   "longSwim": 300,
+   "focus": "Tempo = en fart du skulle kunna hålla i ungefär en timme. Hellre för lugnt än för fort.",
+   "days": [
+    {
+     "date": "2026-11-09",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2026-11-10",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2026-11-11",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 10×50 m (20 s) + 4×100 m (30 s) + 200 m lugnt",
+     "dist": {
+      "v": 1300,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2026-11-12",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-11-13",
+     "title": "LÖP Kvalitet",
+     "desc": "Tempo 2×8 min (pratsvårt, zon 3-4), 3 min jogg mellan",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-tempo"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-11-15",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2",
+     "dist": {
+      "v": 9,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2026-47",
+   "label": "v.47",
+   "monday": "2026-11-16",
+   "phase": "Grund",
+   "type": "Normal",
+   "runKm": 23,
+   "swimM": 2300,
+   "longRun": 10,
+   "longSwim": 400,
+   "focus": "Första 10 km-långpasset. Backar: kort steg, hög frekvens, aktiva armar.",
+   "days": [
+    {
+     "date": "2026-11-16",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2026-11-17",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2026-11-18",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 3×200 m (30 s) + 400 m sammanhängande + 200 m lugnt",
+     "dist": {
+      "v": 1400,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2026-11-19",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-11-20",
+     "title": "LÖP Kvalitet",
+     "desc": "Backar 8×45 s uppför i hög fart, gå ner",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-backar"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-11-22",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2026-48",
+   "label": "v.48",
+   "monday": "2026-11-23",
+   "phase": "Grund",
+   "type": "Lätt",
+   "runKm": 17,
+   "swimM": 1900,
+   "longRun": 7,
+   "longSwim": null,
+   "focus": "Lätt vecka: ca 30 % lägre volym. Var fjärde vecka hela programmet.",
+   "days": [
+    {
+     "date": "2026-11-23",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "SIM Återhämtning",
+     "desc": "Lugnt, blandade simsätt och drillar",
+     "dist": {
+      "v": 1000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-11-27",
+     "title": "LÖP Kvalitet",
+     "desc": "Lätt fartlek 6×30 s",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-fartlek"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-11-29",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2026-49",
+   "label": "v.49",
+   "monday": "2026-11-30",
+   "phase": "Grund",
+   "type": "Normal",
+   "runKm": 23,
+   "swimM": 2400,
+   "longRun": 10,
+   "longSwim": 400,
+   "focus": "Räkna armtag per bassänglängd i distanspasset. Färre armtag i samma fart = bättre teknik.",
+   "days": [
+    {
+     "date": "2026-11-30",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2026-12-01",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2026-12-02",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 2×400 m (45 s) + 3×100 m (20 s) + 200 m lugnt",
+     "dist": {
+      "v": 1500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2026-12-03",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-12-04",
+     "title": "LÖP Kvalitet",
+     "desc": "Intervall 5×3 min (zon 4), 2 min jogg",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-intervall"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-12-06",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2026-50",
+   "label": "v.50",
+   "monday": "2026-12-07",
+   "phase": "Grund",
+   "type": "Normal",
+   "runKm": 24,
+   "swimM": 2500,
+   "longRun": 10,
+   "longSwim": 500,
+   "focus": "Håll jämn fart genom alla 100:or, sista ska gå lika lätt som första.",
+   "days": [
+    {
+     "date": "2026-12-07",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2026-12-08",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2026-12-09",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 8×100 m (20 s) + 2×200 m (30 s) + 200 m lugnt",
+     "dist": {
+      "v": 1600,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2026-12-10",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-12-11",
+     "title": "LÖP Kvalitet",
+     "desc": "Tempo 3×8 min, 2 min jogg",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-tempo"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-12-13",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2026-51",
+   "label": "v.51",
+   "monday": "2026-12-14",
+   "phase": "Grund",
+   "type": "Normal",
+   "runKm": 24,
+   "swimM": 2700,
+   "longRun": 10,
+   "longSwim": 800,
+   "focus": "Milstolpe: 800 m sammanhängande crawl.",
+   "days": [
+    {
+     "date": "2026-12-14",
+     "title": "SIM Teknik",
+     "desc": "Eget teknikpass 30-40 min (kursen har troligen lov): drillar + 6×50 m",
+     "dist": {
+      "v": 1000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2026-12-15",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2026-12-16",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 800 m sammanhängande + 6×100 m (20 s) + 100 m lugnt",
+     "dist": {
+      "v": 1700,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2026-12-17",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-12-18",
+     "title": "LÖP Kvalitet",
+     "desc": "Backar 10×45 s, gå ner",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-backar"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-12-20",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2026-52",
+   "label": "v.52",
+   "monday": "2026-12-21",
+   "phase": "Grund",
+   "type": "Lätt",
+   "runKm": 19,
+   "swimM": 2000,
+   "longRun": 8,
+   "longSwim": null,
+   "focus": "Jul: lätt vecka, flytta pass fritt. Torsbyresa tors-sön? Skidåkningen ersätter helgens löppass.",
+   "days": [
+    {
+     "date": "2026-12-21",
+     "title": "SIM Teknik",
+     "desc": "Eget teknikpass 30-40 min (kursen har troligen lov): drillar + 6×50 m",
+     "dist": {
+      "v": 1000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2026-12-22",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2026-12-23",
+     "title": "SIM Återhämtning",
+     "desc": "Lugnt 1000 m, drillar och blandade simsätt",
+     "dist": {
+      "v": 1000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2026-12-24",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-12-25",
+     "title": "LÖP Kvalitet",
+     "desc": "Lätt fartlek 6×45 s",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-fartlek"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2026-53",
+   "label": "v.53",
+   "monday": "2026-12-28",
+   "phase": "Grund",
+   "type": "Normal",
+   "runKm": 24,
+   "swimM": 2800,
+   "longRun": 10,
+   "longSwim": 1000,
+   "focus": "Nyår. Torsbyresa tors-sön? Skidor ersätter helgens löppass. Milstolpe: 1000 m sammanhängande. Sista veckan med 10 km-tak.",
+   "days": [
+    {
+     "date": "2026-12-28",
+     "title": "SIM Teknik",
+     "desc": "Eget teknikpass 30-40 min (kursen har troligen lov): drillar + 6×50 m",
+     "dist": {
+      "v": 1000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 1000 m sammanhängande + 4×100 m (20 s) + 200 m lugnt",
+     "dist": {
+      "v": 1800,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-01-01",
+     "title": "LÖP Kvalitet",
+     "desc": "Intervall 6×3 min (zon 4), 2 min jogg",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-intervall"
+    },
+    {
+     "date": "2027-01-02",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-01-03",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-01",
+   "label": "v.1",
+   "monday": "2027-01-04",
+   "phase": "Uppbyggnad",
+   "type": "Normal",
+   "runKm": 24,
+   "swimM": 2700,
+   "longRun": 10,
+   "longSwim": null,
+   "focus": "Taket släpps stegvis från nu: +1 km på långpasset ungefär var annan vecka. Stäm av med fysio.",
+   "days": [
+    {
+     "date": "2027-01-04",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-01-05",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-01-06",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 8×100 m (20 s) + 2×300 m (45 s) + 200 m lugnt",
+     "dist": {
+      "v": 1800,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2027-01-07",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-01-08",
+     "title": "LÖP Kvalitet",
+     "desc": "6×800 m i 10 km-ansträngning, 90 s jogg",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-intervall"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-01-10",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-02",
+   "label": "v.2",
+   "monday": "2027-01-11",
+   "phase": "Uppbyggnad",
+   "type": "Normal",
+   "runKm": 25,
+   "swimM": 2700,
+   "longRun": 11,
+   "longSwim": null,
+   "focus": "Första långpasset över 10 km. Avsluta med 5 min gång.",
+   "days": [
+    {
+     "date": "2027-01-11",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-01-12",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-01-13",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 1000 m sammanhängande + 4×100 m (20 s) + 200 m teknik",
+     "dist": {
+      "v": 1800,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2027-01-14",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-01-15",
+     "title": "LÖP Kvalitet",
+     "desc": "Tempo 3×10 min (halvmaratonkänsla), 2 min jogg",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-tempo"
+    },
+    {
+     "date": "2027-01-16",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-01-17",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2",
+     "dist": {
+      "v": 11,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-03",
+   "label": "v.3",
+   "monday": "2027-01-18",
+   "phase": "Uppbyggnad",
+   "type": "Normal",
+   "runKm": 27,
+   "swimM": 2800,
+   "longRun": 12,
+   "longSwim": 1200,
+   "focus": "Milstolpe: 1200 m sammanhängande, långpass 12 km.",
+   "days": [
+    {
+     "date": "2027-01-18",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-01-19",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-01-20",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 1200 m sammanhängande + 4×100 m (20 s) + 100 m lugnt",
+     "dist": {
+      "v": 1900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2027-01-21",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-01-22",
+     "title": "LÖP Kvalitet",
+     "desc": "10×400 m (zon 5), 200 m jogg",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-intervall"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-01-24",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2. Gångpaus 1 min var 10:e min från och med nu",
+     "dist": {
+      "v": 12,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-04",
+   "label": "v.4",
+   "monday": "2027-01-25",
+   "phase": "Uppbyggnad",
+   "type": "Lätt",
+   "runKm": 20,
+   "swimM": 2100,
+   "longRun": 9,
+   "longSwim": null,
+   "focus": "Lätt vecka.",
+   "days": [
+    {
+     "date": "2027-01-25",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-01-26",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-01-27",
+     "title": "SIM Återhämtning",
+     "desc": "Lugnt, drillar och blandade simsätt",
+     "dist": {
+      "v": 1200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-01-28",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-01-29",
+     "title": "LÖP Kvalitet",
+     "desc": "Lätt fartlek 6×45 s",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-fartlek"
+    },
+    {
+     "date": "2027-01-30",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-01-31",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt",
+     "dist": {
+      "v": 9,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-05",
+   "label": "v.5",
+   "monday": "2027-02-01",
+   "phase": "Uppbyggnad",
+   "type": "Normal",
+   "runKm": 28,
+   "swimM": 2900,
+   "longRun": 12,
+   "longSwim": null,
+   "focus": "Kvalitetspassen blir 10 km-specifika.",
+   "days": [
+    {
+     "date": "2027-02-01",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-02-02",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-02-03",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 6×200 m (30 s) + 4×100 m (20 s) + 200 m lugnt",
+     "dist": {
+      "v": 2000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2027-02-04",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-02-05",
+     "title": "LÖP Kvalitet",
+     "desc": "5×1000 m i 10 km-ansträngning, 2 min jogg",
+     "dist": {
+      "v": 9,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-intervall"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-02-07",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 12,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-06",
+   "label": "v.6",
+   "monday": "2027-02-08",
+   "phase": "Uppbyggnad",
+   "type": "Normal",
+   "runKm": 29,
+   "swimM": 2900,
+   "longRun": 13,
+   "longSwim": null,
+   "focus": "Backarna bygger både 10 km-styrka och Lidingö-ben.",
+   "days": [
+    {
+     "date": "2027-02-08",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-02-09",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-02-10",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 2×700 m (45 s) + 2×100 m (20 s) + 200 m lugnt",
+     "dist": {
+      "v": 2000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2027-02-11",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-02-12",
+     "title": "LÖP Kvalitet",
+     "desc": "Backintervall 10×60 s, gå ner",
+     "dist": {
+      "v": 9,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-backar"
+    },
+    {
+     "date": "2027-02-13",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-02-14",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 13,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-07",
+   "label": "v.7",
+   "monday": "2027-02-15",
+   "phase": "Uppbyggnad",
+   "type": "Normal",
+   "runKm": 29,
+   "swimM": 2900,
+   "longRun": 13,
+   "longSwim": 1500,
+   "focus": "Milstolpe: 1500 m sammanhängande.",
+   "days": [
+    {
+     "date": "2027-02-15",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-02-16",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-02-17",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 1500 m sammanhängande + 300 m lugnt",
+     "dist": {
+      "v": 2000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2027-02-18",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-02-19",
+     "title": "LÖP Kvalitet",
+     "desc": "4×1200 m i 10 km-ansträngning, 2 min jogg",
+     "dist": {
+      "v": 9,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-intervall"
+    },
+    {
+     "date": "2027-02-20",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-02-21",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 13,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-08",
+   "label": "v.8",
+   "monday": "2027-02-22",
+   "phase": "Uppbyggnad",
+   "type": "Lätt",
+   "runKm": 21,
+   "swimM": 2100,
+   "longRun": 10,
+   "longSwim": null,
+   "focus": "Lätt vecka.",
+   "days": [
+    {
+     "date": "2027-02-22",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-02-23",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-02-24",
+     "title": "SIM Återhämtning",
+     "desc": "Lugnt, drillar och blandade simsätt",
+     "dist": {
+      "v": 1200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-02-25",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-02-26",
+     "title": "LÖP Kvalitet",
+     "desc": "Lätt fartlek 8×30 s",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-fartlek"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-02-28",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-09",
+   "label": "v.9",
+   "monday": "2027-03-01",
+   "phase": "Uppbyggnad",
+   "type": "Normal",
+   "runKm": 30,
+   "swimM": 3100,
+   "longRun": 14,
+   "longSwim": null,
+   "focus": "Sportlov v.9: flytta pass fritt, men behåll långpasset.",
+   "days": [
+    {
+     "date": "2027-03-01",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-03-02",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-03-03",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 3×400 m (45 s) + 6×100 m (20 s) + 200 m lugnt",
+     "dist": {
+      "v": 2200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2027-03-04",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-03-05",
+     "title": "LÖP Kvalitet",
+     "desc": "Tempo 3×2000 m, 2 min jogg",
+     "dist": {
+      "v": 9,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-tempo"
+    },
+    {
+     "date": "2027-03-06",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-03-07",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 14,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-10",
+   "label": "v.10",
+   "monday": "2027-03-08",
+   "phase": "Uppbyggnad",
+   "type": "Test",
+   "runKm": 23,
+   "swimM": 2900,
+   "longRun": 10,
+   "longSwim": null,
+   "focus": "Testet sätter måltempo för Kungsholmen Runt: 10 km-måltempo ≈ 5 km-tempo + 10-15 s/km.",
+   "days": [
+    {
+     "date": "2027-03-08",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-03-09",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt 6 km + 4×100 m stegringar",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-03-10",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 1600 m sammanhängande + 200 m lugnt",
+     "dist": {
+      "v": 2000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2027-03-11",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-03-12",
+     "title": "Vila",
+     "desc": "Vila inför testet (20 min promenad är ok)",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-03-13",
+     "title": "TESTLOPP",
+     "desc": "5 km testlopp, t.ex. parkrun (Haga, lör 09:30) eller egen mätt slinga. 2 km uppvärmning + stegringar",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "test",
+     "lib": "TEST"
+    },
+    {
+     "date": "2027-03-14",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-11",
+   "label": "v.11",
+   "monday": "2027-03-15",
+   "phase": "Uppbyggnad",
+   "type": "Normal",
+   "runKm": 30,
+   "swimM": 3300,
+   "longRun": 14,
+   "longSwim": 2000,
+   "focus": "Milstolpe: 2000 m sammanhängande.",
+   "days": [
+    {
+     "date": "2027-03-15",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-03-16",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-03-17",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 2000 m sammanhängande + 200 m lugnt",
+     "dist": {
+      "v": 2400,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2027-03-18",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-03-19",
+     "title": "LÖP Kvalitet",
+     "desc": "6×1000 m i måltempo, 2 min jogg",
+     "dist": {
+      "v": 9,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-maltempo"
+    },
+    {
+     "date": "2027-03-20",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-03-21",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 14,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-12",
+   "label": "v.12",
+   "monday": "2027-03-22",
+   "phase": "Uppbyggnad",
+   "type": "Lätt",
+   "runKm": 21,
+   "swimM": 2300,
+   "longRun": 10,
+   "longSwim": null,
+   "focus": "Lätt vecka. Påsk 26-29 mars: flytta pass fritt.",
+   "days": [
+    {
+     "date": "2027-03-22",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-03-23",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-03-24",
+     "title": "SIM Återhämtning",
+     "desc": "Lugnt, drillar och blandade simsätt",
+     "dist": {
+      "v": 1400,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-03-25",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-03-26",
+     "title": "LÖP Kvalitet",
+     "desc": "Lätt fartlek 6×45 s",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-fartlek"
+    },
+    {
+     "date": "2027-03-27",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-03-28",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-13",
+   "label": "v.13",
+   "monday": "2027-03-29",
+   "phase": "Specifik & toppning",
+   "type": "Normal",
+   "runKm": 31,
+   "swimM": 3100,
+   "longRun": 14,
+   "longSwim": null,
+   "focus": "Påskhelg 2-5 april. Måltempo från testet styr nu alla kvalitetspass.",
+   "days": [
+    {
+     "date": "2027-03-29",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-03-30",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-03-31",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 4×400 m (30 s) + 2×100 m (20 s) + 200 m lugnt",
+     "dist": {
+      "v": 2200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2027-04-01",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-04-02",
+     "title": "LÖP Kvalitet",
+     "desc": "5×1000 m i måltempo, 2 min jogg",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-maltempo"
+    },
+    {
+     "date": "2027-04-03",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-04-04",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 14,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-14",
+   "label": "v.14",
+   "monday": "2027-04-05",
+   "phase": "Specifik & toppning",
+   "type": "Normal",
+   "runKm": 32,
+   "swimM": 3300,
+   "longRun": 15,
+   "longSwim": null,
+   "focus": "Milstolpe: långpass 15 km.",
+   "days": [
+    {
+     "date": "2027-04-05",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-04-06",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-04-07",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 2000 m sammanhängande + 200 m lugnt",
+     "dist": {
+      "v": 2400,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2027-04-08",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-04-09",
+     "title": "LÖP Kvalitet",
+     "desc": "3×2000 m i måltempo, 3 min jogg",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-maltempo"
+    },
+    {
+     "date": "2027-04-10",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-04-11",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2, gångpaus 1 min var 10:e min. Längsta före Kungsholmen",
+     "dist": {
+      "v": 15,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-15",
+   "label": "v.15",
+   "monday": "2027-04-12",
+   "phase": "Specifik & toppning",
+   "type": "Normal",
+   "runKm": 31,
+   "swimM": 3300,
+   "longRun": 14,
+   "longSwim": null,
+   "focus": "Tyngsta löpveckan före Kungsholmen Runt.",
+   "days": [
+    {
+     "date": "2027-04-12",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-04-13",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-04-14",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 6×300 m (30 s) + 2×100 m (20 s) + 200 m lugnt",
+     "dist": {
+      "v": 2400,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2027-04-15",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-04-16",
+     "title": "LÖP Kvalitet",
+     "desc": "2 km tempo + 4×1000 m i måltempo, 2 min jogg",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-maltempo"
+    },
+    {
+     "date": "2027-04-17",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-04-18",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt, zon 2, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 14,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-16",
+   "label": "v.16",
+   "monday": "2027-04-19",
+   "phase": "Specifik & toppning",
+   "type": "Lätt",
+   "runKm": 22,
+   "swimM": 2400,
+   "longRun": 10,
+   "longSwim": null,
+   "focus": "Lätt vecka, men behåll farten i de korta intervallerna.",
+   "days": [
+    {
+     "date": "2027-04-19",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-04-20",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-04-21",
+     "title": "SIM Återhämtning",
+     "desc": "Lugnt, drillar och blandade simsätt",
+     "dist": {
+      "v": 1500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-04-22",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-04-23",
+     "title": "LÖP Kvalitet",
+     "desc": "6×400 m snabbt (zon 5), 200 m jogg",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-intervall"
+    },
+    {
+     "date": "2027-04-24",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-04-25",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-17",
+   "label": "v.17",
+   "monday": "2027-04-26",
+   "phase": "Specifik & toppning",
+   "type": "Nedtrappning",
+   "runKm": 24,
+   "swimM": 3500,
+   "longRun": 10,
+   "longSwim": 2500,
+   "focus": "Nedtrappning: behåll fart, sänk volym. Milstolpe: 2500 m sammanhängande.",
+   "days": [
+    {
+     "date": "2027-04-26",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-04-27",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-04-28",
+     "title": "SIM Distans",
+     "desc": "100 m insim + 2500 m sammanhängande",
+     "dist": {
+      "v": 2600,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2027-04-29",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-04-30",
+     "title": "LÖP Kvalitet",
+     "desc": "4×1000 m i måltempo, 2 min jogg",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LK-maltempo"
+    },
+    {
+     "date": "2027-05-01",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-05-02",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-18",
+   "label": "v.18",
+   "monday": "2027-05-03",
+   "phase": "Specifik & toppning",
+   "type": "Tävling",
+   "runKm": 20,
+   "swimM": 2100,
+   "longRun": 12,
+   "longSwim": null,
+   "focus": "Tävlingsvecka. Sömn, mat och lugna ben. Kristi himmelsfärd 6 maj.",
+   "days": [
+    {
+     "date": "2027-05-03",
+     "title": "SIM Kurs/teknik",
+     "desc": "Lätt kurs/teknik, inget tungt",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-05-04",
+     "title": "LÖP Lätt",
+     "desc": "5 km lugnt + 4×100 m stegringar",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-05-05",
+     "title": "SIM Återhämtning",
+     "desc": "Lätt, drillar",
+     "dist": {
+      "v": 1200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-05-06",
+     "title": "Vila",
+     "desc": "Vila (Kristi himmelsfärd)",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-05-07",
+     "title": "LÖP Lätt",
+     "desc": "3 km lugnt + 3 stegringar",
+     "dist": {
+      "v": 3,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-05-08",
+     "title": "TÄVLING",
+     "desc": "Kungsholmen Runt 10 km. 2 km uppvärmning + stegringar. Måltempo första 5 km, öka sista 3 km",
+     "dist": {
+      "v": 12,
+      "unit": "km"
+     },
+     "kind": "race",
+     "lib": "TAV-khr"
+    },
+    {
+     "date": "2027-05-09",
+     "title": "Vila",
+     "desc": "Vila eller promenad",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    }
+   ]
+  },
+  {
+   "id": "2027-19",
+   "label": "v.19",
+   "monday": "2027-05-10",
+   "phase": "Vansbro",
+   "type": "Återhämtning",
+   "runKm": 13,
+   "swimM": 5200,
+   "longRun": 0,
+   "longSwim": null,
+   "focus": "Återhämtning efter 10 km. Nu tar simningen över: 3 sim + 2 löp. Löpningen flyttar till tisdag (kvalitet) och fredag (långpass).",
+   "days": [
+    {
+     "date": "2027-05-10",
+     "title": "SIM Återhämtning",
+     "desc": "Lugnt 1200 m, blandade simsätt",
+     "dist": {
+      "v": 1200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-05-11",
+     "title": "LÖP Lätt",
+     "desc": "Mycket lugnt",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-05-12",
+     "title": "SIM Distans",
+     "desc": "Lugnt 2000 m i jämn fart",
+     "dist": {
+      "v": 2000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2027-05-13",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-05-14",
+     "title": "LÖP Lätt",
+     "desc": "Lätt, gärna terräng",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-05-15",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-05-16",
+     "title": "SIM Distans",
+     "desc": "Bassäng 2000 m (3×600 m + 200 m) eller första doppet i öppet vatten 10-15 min om vattnet är minst 14 °C",
+     "dist": {
+      "v": 2000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    }
+   ]
+  },
+  {
+   "id": "2027-20",
+   "label": "v.20",
+   "monday": "2027-05-17",
+   "phase": "Vansbro",
+   "type": "Normal",
+   "runKm": 20,
+   "swimM": 6000,
+   "longRun": 12,
+   "longSwim": null,
+   "focus": "Simvolymen går upp till ca 6 km i veckan. Löpningen hålls på två pass men långpasset lever vidare.",
+   "days": [
+    {
+     "date": "2027-05-17",
+     "title": "SIM Kurs/teknik",
+     "desc": "Kurs/teknik. Öva sighting i bassäng: lyft blicken var 6:e armtag",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-05-18",
+     "title": "LÖP Terräng/backar",
+     "desc": "Backar 8×60 s uppför, gå ner. Kuperat",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-05-19",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 5×400 m (30 s) + 2×100 m (20 s) + 200 m lugnt",
+     "dist": {
+      "v": 2600,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2027-05-20",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-05-21",
+     "title": "LÖP Långpass",
+     "desc": "Terräng 12 km, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 12,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    },
+    {
+     "date": "2027-05-22",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-05-23",
+     "title": "SIM Distans",
+     "desc": "Bassäng 2500 m sammanhängande, eller öppet vatten 600-800 m i våtdräkt om vattnet är minst 14 °C",
+     "dist": {
+      "v": 2500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    }
+   ]
+  },
+  {
+   "id": "2027-21",
+   "label": "v.21",
+   "monday": "2027-05-24",
+   "phase": "Vansbro",
+   "type": "Normal",
+   "runKm": 21,
+   "swimM": 4500,
+   "longRun": 13,
+   "longSwim": null,
+   "focus": "Milstolpe: första passet i öppet vatten. Boj, stark badmössa och sällskap.",
+   "days": [
+    {
+     "date": "2027-05-24",
+     "title": "SIM Kurs/teknik",
+     "desc": "Simkurs 19:00-19:30, annars teknik 30-40 min. Valfritt 20 min insim före",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-05-25",
+     "title": "LÖP Terräng/backar",
+     "desc": "Terrängfartlek 10×1 min",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-05-26",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 4×600 m (45 s) + 200 m lugnt",
+     "dist": {
+      "v": 2800,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2027-05-27",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-05-28",
+     "title": "LÖP Långpass",
+     "desc": "Terräng, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 13,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    },
+    {
+     "date": "2027-05-29",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-05-30",
+     "title": "SIM Öppet vatten",
+     "desc": "Första riktiga passet i öppet vatten: 800 m i våtdräkt. Vänj dig vid kylan, sikta var 6-8:e armtag, testa nässkyddet. Aldrig ensam",
+     "dist": {
+      "v": 800,
+      "unit": "m"
+     },
+     "kind": "open",
+     "lib": "ÖV"
+    }
+   ]
+  },
+  {
+   "id": "2027-22",
+   "label": "v.22",
+   "monday": "2027-05-31",
+   "phase": "Vansbro",
+   "type": "Normal",
+   "runKm": 22,
+   "swimM": 5100,
+   "longRun": 14,
+   "longSwim": null,
+   "focus": "Nationaldagen 6 juni är söndag. Öppet vatten: simma rakt är snabbare än att simma fort.",
+   "days": [
+    {
+     "date": "2027-05-31",
+     "title": "SIM Kurs/teknik",
+     "desc": "Kurs/teknik (troligen sista kursveckan, annars eget teknikpass)",
+     "dist": {
+      "v": 900,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-06-01",
+     "title": "LÖP Terräng/backar",
+     "desc": "Backar 10×60 s, gå ner",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-06-02",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 2500 m sammanhängande + 300 m lugnt",
+     "dist": {
+      "v": 3000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2027-06-03",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-06-04",
+     "title": "LÖP Långpass",
+     "desc": "Terräng, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 14,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    },
+    {
+     "date": "2027-06-05",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-06-06",
+     "title": "SIM Öppet vatten",
+     "desc": "1200 m: 2×600 m med kort paus. Simma rakt mot ett fast märke, kontrollera var 8:e armtag",
+     "dist": {
+      "v": 1200,
+      "unit": "m"
+     },
+     "kind": "open",
+     "lib": "ÖV"
+    }
+   ]
+  },
+  {
+   "id": "2027-23",
+   "label": "v.23",
+   "monday": "2027-06-07",
+   "phase": "Vansbro",
+   "type": "Lätt",
+   "runKm": 16,
+   "swimM": 4700,
+   "longRun": 10,
+   "longSwim": null,
+   "focus": "Lätt löpvecka. Simningen fortsätter bygga.",
+   "days": [
+    {
+     "date": "2027-06-07",
+     "title": "SIM Teknik",
+     "desc": "Eget teknikpass 30-40 min (kursen har troligen lov): drillar + 6×50 m",
+     "dist": {
+      "v": 1000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-06-08",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-06-09",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 8×200 m (30 s) + 2×100 m + 200 m lugnt",
+     "dist": {
+      "v": 2200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2027-06-10",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-06-11",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    },
+    {
+     "date": "2027-06-12",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-06-13",
+     "title": "SIM Öppet vatten",
+     "desc": "1500 m sammanhängande, lugnt. Öva masstart med sällskap om möjligt",
+     "dist": {
+      "v": 1500,
+      "unit": "m"
+     },
+     "kind": "open",
+     "lib": "ÖV"
+    }
+   ]
+  },
+  {
+   "id": "2027-24",
+   "label": "v.24",
+   "monday": "2027-06-14",
+   "phase": "Vansbro",
+   "type": "Normal",
+   "runKm": 23,
+   "swimM": 6200,
+   "longRun": 14,
+   "longSwim": 3000,
+   "focus": "Milstolpe: 3000 m sammanhängande i bassäng.",
+   "days": [
+    {
+     "date": "2027-06-14",
+     "title": "SIM Teknik",
+     "desc": "Eget teknikpass 30-40 min (kursen har troligen lov): drillar + 6×50 m",
+     "dist": {
+      "v": 1000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-06-15",
+     "title": "LÖP Terräng/backar",
+     "desc": "Terrängfartlek 10×2 min",
+     "dist": {
+      "v": 9,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-06-16",
+     "title": "SIM Distans",
+     "desc": "200 m insim + 3000 m sammanhängande i jämn fart, räkna armtag",
+     "dist": {
+      "v": 3200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SD"
+    },
+    {
+     "date": "2027-06-17",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-06-18",
+     "title": "LÖP Långpass",
+     "desc": "Terräng, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 14,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    },
+    {
+     "date": "2027-06-19",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-06-20",
+     "title": "SIM Öppet vatten",
+     "desc": "2000 m i våtdräkt. 3-4 masstarter på 50 m med sällskap, sedan jämn fart med sighting",
+     "dist": {
+      "v": 2000,
+      "unit": "m"
+     },
+     "kind": "open",
+     "lib": "ÖV"
+    }
+   ]
+  },
+  {
+   "id": "2027-25",
+   "label": "v.25",
+   "monday": "2027-06-21",
+   "phase": "Vansbro",
+   "type": "Normal",
+   "runKm": 23,
+   "swimM": 7200,
+   "longRun": 15,
+   "longSwim": 3000,
+   "focus": "Midsommar 25-26 juni. Genrepet är viktigast i veckan, flytta vid behov till lördag eller måndag.",
+   "days": [
+    {
+     "date": "2027-06-21",
+     "title": "SIM Teknik",
+     "desc": "Eget teknikpass 30-40 min (kursen har troligen lov): drillar + 6×50 m",
+     "dist": {
+      "v": 1000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-06-22",
+     "title": "LÖP Terräng/backar",
+     "desc": "Backar 10×60 s, gå ner",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-06-23",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 3×800 m (60 s) + 4×100 m (20 s) + 200 m lugnt",
+     "dist": {
+      "v": 3200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2027-06-24",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-06-25",
+     "title": "LÖP Långpass",
+     "desc": "Terräng, gångpaus 1 min var 10:e min. Midsommarafton: kör torsdag i stället om fredagen är upptagen",
+     "dist": {
+      "v": 15,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    },
+    {
+     "date": "2027-06-26",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-06-27",
+     "title": "SIM Öppet vatten",
+     "desc": "GENREP 2500-3000 m i våtdräkt med tävlingsupplägg: lugn start, jämn fart, sista 500 m i tävlingsfart. Gärna i strömmande vatten",
+     "dist": {
+      "v": 3000,
+      "unit": "m"
+     },
+     "kind": "open",
+     "lib": "ÖV"
+    }
+   ]
+  },
+  {
+   "id": "2027-26",
+   "label": "v.26",
+   "monday": "2027-06-28",
+   "phase": "Vansbro",
+   "type": "Nedtrappning",
+   "runKm": 18,
+   "swimM": 5000,
+   "longRun": 12,
+   "longSwim": null,
+   "focus": "Nedtrappning: kortare och piggare. Packa: våtdräkt, nässkydd + reserv, badmössa, glasögon.",
+   "days": [
+    {
+     "date": "2027-06-28",
+     "title": "SIM Teknik",
+     "desc": "Eget teknikpass 30-40 min (kursen har troligen lov): drillar + 6×50 m",
+     "dist": {
+      "v": 1000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SK"
+    },
+    {
+     "date": "2027-06-29",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-06-30",
+     "title": "SIM Intervall",
+     "desc": "200 m insim + 10×100 m pigg (20 s) + 800 m lugnt",
+     "dist": {
+      "v": 2000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SI"
+    },
+    {
+     "date": "2027-07-01",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-07-02",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt",
+     "dist": {
+      "v": 12,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    },
+    {
+     "date": "2027-07-03",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-07-04",
+     "title": "SIM Öppet vatten",
+     "desc": "2000 m lugnt med sighting och ett par masstarter. Sista passet i öppet vatten före tävling",
+     "dist": {
+      "v": 2000,
+      "unit": "m"
+     },
+     "kind": "open",
+     "lib": "ÖV"
+    }
+   ]
+  },
+  {
+   "id": "2027-27",
+   "label": "v.27",
+   "monday": "2027-07-05",
+   "phase": "Vansbro",
+   "type": "Tävling",
+   "runKm": 5,
+   "swimM": 5700,
+   "longRun": 0,
+   "longSwim": null,
+   "focus": "Tävlingsvecka. Första Klassiker-loppet, 10 juli.",
+   "days": [
+    {
+     "date": "2027-07-05",
+     "title": "SIM Återhämtning",
+     "desc": "1200 m lätt: drillar + 4×50 m pigg",
+     "dist": {
+      "v": 1200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-07-06",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-07-07",
+     "title": "SIM Återhämtning",
+     "desc": "1000 m lätt (öppet vatten eller bassäng) + 6×50 m pigg",
+     "dist": {
+      "v": 1000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-07-08",
+     "title": "Vila",
+     "desc": "Resa till Vansbro, vila",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-07-09",
+     "title": "SIM Återhämtning",
+     "desc": "Provsim 10-15 min i älven (känn strömmen). Hämta nummerlapp",
+     "dist": {
+      "v": 500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-07-10",
+     "title": "TÄVLING",
+     "desc": "Vansbrosimningen 3000 m. 2 km medströms i Vanån (håll höger längs banmarkeringen), sista km motströms i Västerdalälven (håll nära bryggorna). Våtdräkt, nässkydd + reserv. Lugn start, spara till sista km",
+     "dist": {
+      "v": 3000,
+      "unit": "m"
+     },
+     "kind": "race",
+     "lib": "TAV-vansbro"
+    },
+    {
+     "date": "2027-07-11",
+     "title": "Vila",
+     "desc": "Vila, hemresa",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    }
+   ]
+  },
+  {
+   "id": "2027-28",
+   "label": "v.28",
+   "monday": "2027-07-12",
+   "phase": "Lidingö",
+   "type": "Övergång",
+   "runKm": 27,
+   "swimM": 1200,
+   "longRun": 10,
+   "longSwim": null,
+   "focus": "Övergång: fyra lätta löppass, inget hårt. Nu 4 löp + 1 sim. Semester? Byt pass 1:1 mot lätt löpning och simning där du är.",
+   "days": [
+    {
+     "date": "2027-07-12",
+     "title": "SIM Återhämtning",
+     "desc": "1200 m lugnt (bassäng eller öppet vatten)",
+     "dist": {
+      "v": 1200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-07-13",
+     "title": "LÖP Lätt",
+     "desc": "Mycket lugnt",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-07-14",
+     "title": "LÖP Lätt",
+     "desc": "Lätt, terräng",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-07-15",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-07-16",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-07-17",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-07-18",
+     "title": "LÖP Långpass",
+     "desc": "Lätt terräng",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-29",
+   "label": "v.29",
+   "monday": "2027-07-19",
+   "phase": "Lidingö",
+   "type": "Normal",
+   "runKm": 34,
+   "swimM": 1500,
+   "longRun": 14,
+   "longSwim": null,
+   "focus": "Lidingöfasen är programmets tyngsta period. Gå in i den utvilad.",
+   "days": [
+    {
+     "date": "2027-07-19",
+     "title": "SIM Återhämtning",
+     "desc": "1500 m lugnt",
+     "dist": {
+      "v": 1500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-07-20",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-07-21",
+     "title": "LÖP Terräng/backar",
+     "desc": "Backar 8×60 s uppför, gå ner. Kuperat",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-07-22",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-07-23",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-07-24",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-07-25",
+     "title": "LÖP Långpass",
+     "desc": "Terräng, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 14,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-30",
+   "label": "v.30",
+   "monday": "2027-07-26",
+   "phase": "Lidingö",
+   "type": "Normal",
+   "runKm": 38,
+   "swimM": 1500,
+   "longRun": 16,
+   "longSwim": null,
+   "focus": "Ta med dryck på långpass över 90 min.",
+   "days": [
+    {
+     "date": "2027-07-26",
+     "title": "SIM Återhämtning",
+     "desc": "1500 m lugnt",
+     "dist": {
+      "v": 1500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-07-27",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-07-28",
+     "title": "LÖP Terräng/backar",
+     "desc": "Terrängfartlek 10×2 min",
+     "dist": {
+      "v": 9,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-07-29",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-07-30",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-07-31",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-08-01",
+     "title": "LÖP Långpass",
+     "desc": "Terräng, gångpaus 1 min var 10:e min",
+     "dist": {
+      "v": 16,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-31",
+   "label": "v.31",
+   "monday": "2027-08-02",
+   "phase": "Lidingö",
+   "type": "Normal",
+   "runKm": 41,
+   "swimM": 1500,
+   "longRun": 18,
+   "longSwim": null,
+   "focus": "Milstolpe: långpass 18 km. Testa den mat och dryck du tänker använda på Lidingö.",
+   "days": [
+    {
+     "date": "2027-08-02",
+     "title": "SIM Återhämtning",
+     "desc": "1500 m lugnt",
+     "dist": {
+      "v": 1500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-08-03",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-08-04",
+     "title": "LÖP Terräng/backar",
+     "desc": "Backar 10×60-90 s, gå ner",
+     "dist": {
+      "v": 9,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-08-05",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-08-06",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-08-07",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-08-08",
+     "title": "LÖP Långpass",
+     "desc": "Terräng, gångpaus 1 min var 10:e min. Energi var 30-40 min",
+     "dist": {
+      "v": 18,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-32",
+   "label": "v.32",
+   "monday": "2027-08-09",
+   "phase": "Lidingö",
+   "type": "Lätt",
+   "runKm": 30,
+   "swimM": 1500,
+   "longRun": 13,
+   "longSwim": null,
+   "focus": "Lätt vecka.",
+   "days": [
+    {
+     "date": "2027-08-09",
+     "title": "SIM Återhämtning",
+     "desc": "1500 m lugnt",
+     "dist": {
+      "v": 1500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-08-10",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-08-11",
+     "title": "LÖP Lätt",
+     "desc": "Lätt terräng",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-08-12",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-08-13",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-08-14",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-08-15",
+     "title": "LÖP Långpass",
+     "desc": "Lugnt",
+     "dist": {
+      "v": 13,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-33",
+   "label": "v.33",
+   "monday": "2027-08-16",
+   "phase": "Lidingö",
+   "type": "Normal",
+   "runKm": 44,
+   "swimM": 1500,
+   "longRun": 20,
+   "longSwim": null,
+   "focus": "Första 20 km-passet. Löp på tid och känsla, inte på tempo.",
+   "days": [
+    {
+     "date": "2027-08-16",
+     "title": "SIM Återhämtning",
+     "desc": "1500 m lugnt",
+     "dist": {
+      "v": 1500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-08-17",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-08-18",
+     "title": "LÖP Terräng/backar",
+     "desc": "Terrängfartlek 8×3 min",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-08-19",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-08-20",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-08-21",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-08-22",
+     "title": "LÖP Långpass",
+     "desc": "Lidingö-lik terräng (t.ex. Lidingö-spåren eller Nackareservatet). Energi var 30-40 min",
+     "dist": {
+      "v": 20,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-34",
+   "label": "v.34",
+   "monday": "2027-08-23",
+   "phase": "Lidingö",
+   "type": "Normal",
+   "runKm": 47,
+   "swimM": 1500,
+   "longRun": 22,
+   "longSwim": null,
+   "focus": "Gå i de brantaste backarna redan på träning, det är så du ska göra på tävlingsdagen.",
+   "days": [
+    {
+     "date": "2027-08-23",
+     "title": "SIM Återhämtning",
+     "desc": "1500 m lugnt",
+     "dist": {
+      "v": 1500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-08-24",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-08-25",
+     "title": "LÖP Terräng/backar",
+     "desc": "Backar 12×60-90 s, gå ner",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-08-26",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-08-27",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-08-28",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-08-29",
+     "title": "LÖP Långpass",
+     "desc": "Terräng, gångpaus 1 min var 10:e min. Energi var 30-40 min",
+     "dist": {
+      "v": 22,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-35",
+   "label": "v.35",
+   "monday": "2027-08-30",
+   "phase": "Lidingö",
+   "type": "Normal",
+   "runKm": 48,
+   "swimM": 1500,
+   "longRun": 24,
+   "longSwim": null,
+   "focus": "Milstolpe: långpass 24 km. Toppen av programmet.",
+   "days": [
+    {
+     "date": "2027-08-30",
+     "title": "SIM Återhämtning",
+     "desc": "1500 m lugnt",
+     "dist": {
+      "v": 1500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-08-31",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-09-01",
+     "title": "LÖP Terräng/backar",
+     "desc": "10 km kuperad terräng i tänkt tävlingsansträngning (Lidingö-simulering)",
+     "dist": {
+      "v": 10,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-09-02",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-09-03",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-09-04",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-09-05",
+     "title": "LÖP Långpass",
+     "desc": "Längsta passet. Terräng, gångpaus 1 min var 10:e min, öva tävlingsdagens mat och dryck",
+     "dist": {
+      "v": 24,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-36",
+   "label": "v.36",
+   "monday": "2027-09-06",
+   "phase": "Lidingö",
+   "type": "Nedtrappning",
+   "runKm": 38,
+   "swimM": 1500,
+   "longRun": 17,
+   "longSwim": null,
+   "focus": "Nedtrappning 1: volymen ner, lite fart kvar.",
+   "days": [
+    {
+     "date": "2027-09-06",
+     "title": "SIM Återhämtning",
+     "desc": "1500 m lugnt",
+     "dist": {
+      "v": 1500,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-09-07",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-09-08",
+     "title": "LÖP Terräng/backar",
+     "desc": "Terrängfartlek 6×2 min",
+     "dist": {
+      "v": 8,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-09-09",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-09-10",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-09-11",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-09-12",
+     "title": "LÖP Långpass",
+     "desc": "Terräng, lugnt",
+     "dist": {
+      "v": 17,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-37",
+   "label": "v.37",
+   "monday": "2027-09-13",
+   "phase": "Lidingö",
+   "type": "Nedtrappning",
+   "runKm": 30,
+   "swimM": 1200,
+   "longRun": 12,
+   "longSwim": null,
+   "focus": "Nedtrappning 2. Kolla utrustning: skor, strumpor, vätskebälte.",
+   "days": [
+    {
+     "date": "2027-09-13",
+     "title": "SIM Återhämtning",
+     "desc": "1200 m lugnt",
+     "dist": {
+      "v": 1200,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-09-14",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-09-15",
+     "title": "LÖP Terräng/backar",
+     "desc": "4×3 min kuperat i tävlingsfart, 2 min jogg",
+     "dist": {
+      "v": 7,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LT"
+    },
+    {
+     "date": "2027-09-16",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-09-17",
+     "title": "LÖP Lätt",
+     "desc": "Lugnt, pratfart (zon 2)",
+     "dist": {
+      "v": 5,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-09-18",
+     "title": "Vila",
+     "desc": "",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-09-19",
+     "title": "LÖP Långpass",
+     "desc": "Lätt",
+     "dist": {
+      "v": 12,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LP"
+    }
+   ]
+  },
+  {
+   "id": "2027-38",
+   "label": "v.38",
+   "monday": "2027-09-20",
+   "phase": "Lidingö",
+   "type": "Tävling",
+   "runKm": 40,
+   "swimM": 1800,
+   "longRun": 30,
+   "longSwim": null,
+   "focus": "Tävlingsvecka, 25 september. Därefter två veckors vila innan skidträningen mot Vasaloppet börjar.",
+   "days": [
+    {
+     "date": "2027-09-20",
+     "title": "SIM Återhämtning",
+     "desc": "1000 m lätt",
+     "dist": {
+      "v": 1000,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-09-21",
+     "title": "LÖP Lätt",
+     "desc": "6 km lugnt + 4×100 m stegringar",
+     "dist": {
+      "v": 6,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-09-22",
+     "title": "LÖP Lätt",
+     "desc": "Lätt",
+     "dist": {
+      "v": 4,
+      "unit": "km"
+     },
+     "kind": "run",
+     "lib": "LL"
+    },
+    {
+     "date": "2027-09-23",
+     "title": "SIM Återhämtning",
+     "desc": "800 m mycket lugnt, lossa upp",
+     "dist": {
+      "v": 800,
+      "unit": "m"
+     },
+     "kind": "swim",
+     "lib": "SÅ"
+    },
+    {
+     "date": "2027-09-24",
+     "title": "Vila",
+     "desc": "Hämta nummerlapp, packa, vila",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    },
+    {
+     "date": "2027-09-25",
+     "title": "TÄVLING",
+     "desc": "TCS Lidingöloppet 30 km, 522 m stigning. Gå i de brantaste backarna, energi var 30-40 min. Kontrolltider: Fågelöudde 15 km före 16:35, Grönsta 20 km före 17:20, Sticklinge 23,8 km före 18:00, Tyktorp 27 km före 18:40. Sista startgrupp 14:30",
+     "dist": {
+      "v": 30,
+      "unit": "km"
+     },
+     "kind": "race",
+     "lib": "TAV-lidingo"
+    },
+    {
+     "date": "2027-09-26",
+     "title": "Vila",
+     "desc": "Vila. Två av fyra Klassiker-lopp klara",
+     "dist": null,
+     "kind": "rest",
+     "lib": null
+    }
+   ]
+  }
+ ],
+ "library": [
+  {
+   "code": "LL",
+   "name": "LÖP Lätt",
+   "syfte": "Aerob bas, återhämtning och löpekonomi. Det pass som bygger tåligheten.",
+   "upplagg": "Uppvärmning 5 min gång eller lätt jogg + rörlighet + hoppövningar. Sedan jämn lugn löpning 5-8 km. Avsluta med 3 min gång.",
+   "intensitet": "Zon 2, pratfart. Pulsen ska kännas låg hela vägen.",
+   "tips": "Hellre för långsamt än för fort. Dagen efter ett kvalitetspass är detta ett återhämtningspass, inte ett tempotest.",
+   "key": "LL"
+  },
+  {
+   "code": "LK",
+   "name": "LÖP Kvalitet: fartlek",
+   "syfte": "Fartkänsla och variation utan att tömma benen.",
+   "upplagg": "10 min uppvärmning. 6-8×1 min fort / 1 min lugnt (lätta veckor: 6×30-45 s). 5 min nedvarvning. Totalt 5-8 km.",
+   "intensitet": "Zon 4 i de snabba bitarna, lugn jogg mellan.",
+   "tips": "Fart på känsla, ingen klocka behövs. Bra pass när benen är tunga men du ändå vill ha lite fart.",
+   "key": "LK-fartlek"
+  },
+  {
+   "code": "LK",
+   "name": "LÖP Kvalitet: tempo",
+   "syfte": "Höjer tröskeln, gör 10 km-farten billigare.",
+   "upplagg": "10 min uppvärmning. 2×8 min, 3×8-10 min eller 3×2000 m i jämn fart med 2-3 min jogg mellan. 5 min nedvarvning. Totalt 7-9 km.",
+   "intensitet": "Zon 3-4, pratsvårt. Ungefär halvmaratontempo.",
+   "tips": "Starta försiktigt. Sista intervallen ska gå i samma fart som den första.",
+   "key": "LK-tempo"
+  },
+  {
+   "code": "LK / LT",
+   "name": "LÖP Kvalitet: backar",
+   "syfte": "Löparstyrka och steg utan tunga stötar. Lidingö-specifikt.",
+   "upplagg": "10 min uppvärmning. 8-12×45-90 s uppför i hög ansträngning, gå ner mellan. 5 min nedvarvning. Totalt 7-10 km.",
+   "intensitet": "Zon 4-5 uppför, full återhämtning nedför.",
+   "tips": "Kort steg, hög frekvens, aktiva armar, blicken 10 m framåt. Backarna ersätter styrkepassen i det här programmet.",
+   "key": "LK-backar"
+  },
+  {
+   "code": "LK",
+   "name": "LÖP Kvalitet: intervall",
+   "syfte": "Syreupptag och 10 km-fart.",
+   "upplagg": "10 min uppvärmning + 3 stegringar. 5×3 min, 6×800 m, 10×400 m, 5×1000 m eller 4×1200 m med jogg ungefär halva intervalltiden. 5 min nedvarvning. Totalt 7-9 km.",
+   "intensitet": "Zon 4-5, 10 km-ansträngning (400:or något snabbare).",
+   "tips": "Jämn fart i alla intervaller. Hellre en för lite än en för mycket.",
+   "key": "LK-intervall"
+  },
+  {
+   "code": "LK",
+   "name": "LÖP Kvalitet: måltempo",
+   "syfte": "Lär kroppen Kungsholmen Runt-tempot.",
+   "upplagg": "10 min uppvärmning. 4-6×1000 m, 3×2000 m eller 2 km tempo + 4×1000 m i måltempo med 2-3 min jogg. 5 min nedvarvning. Totalt 8-10 km.",
+   "intensitet": "Måltempo = 5 km-testtempo + 10-15 s/km.",
+   "tips": "Lås farten på Garmin. Måltempot ska kännas kontrollerat i april, inte maximalt.",
+   "key": "LK-maltempo"
+  },
+  {
+   "code": "LP",
+   "name": "LÖP Långpass",
+   "syfte": "Uthållighet och struktur för Kungsholmen och framför allt Lidingö.",
+   "upplagg": "Uppvärmning som vanligt. Jämn lugn löpning. Från 12 km gångpaus 1 min var 10:e minut. Över 90 min: dryck och energi var 30-40 min. Sista 2 km lugnt.",
+   "intensitet": "Zon 2, lugnt och jämnt. Ska kunna köras på tid och känsla utan tempo.",
+   "tips": "Från juli i kuperad terräng, gärna på Lidingö eller i Nackareservatet. Gå i de brantaste backarna, så ska du göra på tävlingen.",
+   "key": "LP"
+  },
+  {
+   "code": "LT",
+   "name": "LÖP Terräng/backar",
+   "syfte": "Lidingö-specifik styrka och teknik.",
+   "upplagg": "Uppvärmning. Terrängfartlek 6-10×1-3 min fort på stig med lugn jogg mellan, eller backintervaller enligt ovan. Totalt 7-10 km.",
+   "intensitet": "Zon 4 i de snabba bitarna.",
+   "tips": "Öva nedförslöpning: korta steg, lätt framåtlutning, blicken långt fram. Det sparar lår på Lidingö.",
+   "key": "LT"
+  },
+  {
+   "code": "TEST",
+   "name": "Testlopp 5 km",
+   "syfte": "Ger måltempo för Kungsholmen Runt.",
+   "upplagg": "2 km uppvärmning + 4 stegringar. 5 km så jämnt och hårt du kan, t.ex. parkrun (Haga lördag 09:30) eller en egen uppmätt slinga. Jogga 1 km ner.",
+   "intensitet": "Maximalt men jämnt. Första km ska inte vara snabbast.",
+   "tips": "10 km-måltempo = 5 km-tempo + 10-15 s/km. Skriv in tempot i Logg.",
+   "key": "TEST"
+  },
+  {
+   "code": "TÄV",
+   "name": "Kungsholmen Runt 10 km (8 maj)",
+   "syfte": "Delmål nummer ett.",
+   "upplagg": "2 km uppvärmning + stegringar 20-30 min före start. Håll måltempo första 5 km, öka försiktigt sista 3 km. Dagarna före: lätt löpning, sömn och kolhydrater.",
+   "intensitet": "Jämnt, första km får inte bli snabbast.",
+   "tips": "Veckan efter är återhämtning. Simningen tar över direkt efter loppet.",
+   "key": "TAV-khr"
+  },
+  {
+   "code": "SK / ST",
+   "name": "SIM Kurs / teknik",
+   "syfte": "Teknik före volym: andning, kroppsläge, långt armtag.",
+   "upplagg": "Simkurs måndag 19:00-19:30. Veckor utan kurs: eget teknikpass 30-40 min med 6×50 m drill/sim (fingerdrag, catch-up, enarmscrawl, bensparkar med platta) och 6-8×50 m lugn crawl med fokus på ett moment.",
+   "intensitet": "Lugnt. Teknikpass ska inte göra dig andfådd.",
+   "tips": "Simma gärna 20 min lugnt före kursen om bassängen är öppen. Ta med ett fokus från kursen till onsdagens pass.",
+   "key": "SK"
+  },
+  {
+   "code": "SD",
+   "name": "SIM Distans",
+   "syfte": "Bygger den sammanhängande sträckan mot 3000 m.",
+   "upplagg": "200 m insim. Huvuddel: långa intervaller eller sammanhängande simning enligt Veckoplan (400 m i november till 3000 m i juni). 100-200 m lugn nedsim.",
+   "intensitet": "Jämn, lugn fart. Du ska kunna fortsätta när passet är slut.",
+   "tips": "Räkna armtag per 25 m. Färre armtag i samma fart är bättre teknik. Bilateral andning hela passet.",
+   "key": "SD"
+  },
+  {
+   "code": "SI",
+   "name": "SIM Intervall",
+   "syfte": "Fart och uthållighet i simningen.",
+   "upplagg": "200 m insim. 10×50, 8×100, 6×200, 4×400 eller 3×800 m med 20-60 s vila enligt Veckoplan. 200 m lugn nedsim.",
+   "intensitet": "Något över distansfart, jämn genom hela serien.",
+   "tips": "Starta lugnt. Sista intervallen ska kännas som den första.",
+   "key": "SI"
+  },
+  {
+   "code": "SÅ",
+   "name": "SIM Återhämtning",
+   "syfte": "Lossa upp och hålla känslan i vattnet.",
+   "upplagg": "1000-1500 m lugnt med blandade simsätt, drillar och enstaka 50 m pigga.",
+   "intensitet": "Mycket lugnt.",
+   "tips": "Under Lidingöfasen är det här veckans enda simpass och fungerar som återhämtning för löpbenen.",
+   "key": "SÅ"
+  },
+  {
+   "code": "ÖV",
+   "name": "SIM Öppet vatten",
+   "syfte": "Vansbro-specifikt: våtdräkt, kyla, sighting, masstart, simma rakt.",
+   "upplagg": "Våtdräkt, badmössa i stark färg och boj. Börja med 10-15 min för att vänja dig vid kylan. Sikta var 6-10:e armtag (lyft bara ögonen), simma mot ett fast märke. Öva masstart på 50 m med sällskap. Distans enligt Veckoplan: 800 m i maj till 3000 m i slutet av juni.",
+   "intensitet": "Lugnt och kontrollerat. Rak linje slår hög fart.",
+   "tips": "Aldrig ensam. Testa nässkyddet här, inte på tävlingsdagen, och ta med en reserv. Platser i Stockholm: t.ex. Smedsuddsbadet eller Långholmen i Mälaren, Hellasgården. Från 14-16 °C.",
+   "key": "ÖV"
+  },
+  {
+   "code": "TÄV",
+   "name": "Vansbrosimningen 3000 m (10 juli)",
+   "syfte": "Första Klassiker-loppet.",
+   "upplagg": "Första 2 km medströms i Vanån: håll höger längs banmarkeringen för att få hjälp av strömmen. Sista kilometern motströms i Västerdalälven: håll nära bryggorna där strömmen är svagast. Sju broar passeras, vattnet brukar vara 16-22 °C.",
+   "intensitet": "Lugn start i masstarten, hitta rytmen efter 200 m, spara krafter till sista kilometern.",
+   "tips": "Våtdräkt enligt årets regler (kontrollera på vansbrosimningen.se), nässkydd + reserv. Provsim i älven dagen före för att känna strömmen.",
+   "key": "TAV-vansbro"
+  },
+  {
+   "code": "TÄV",
+   "name": "TCS Lidingöloppet 30 km (25 september)",
+   "syfte": "Andra Klassiker-loppet.",
+   "upplagg": "30 km kuperad terräng med 522 m stigning: ängar och grusvägar varvat med stigar och branta backar. Gå i de brantaste backarna. Energi var 30-40 min från start, dryck vid kontrollerna. Gångpaus enligt långpassrutinen.",
+   "intensitet": "Lugnt, zon 2 de första 20 km. Sista 10 km får kosta.",
+   "tips": "Kontrolltider (klocktid): Fågelöudde 15 km före 16:35, Grönsta 20 km före 17:20, Sticklinge Uddvägen 23,8 km före 18:00, Sticklinge Tyktorp 27 km före 18:40. Sista startgrupp 14:30. Kontrollera årets tider på lidingoloppet.se.",
+   "key": "TAV-lidingo"
+  }
+ ],
+ "milestones": [
+  {
+   "week": "v.47",
+   "date": "2026-11-22",
+   "text": "Första långpasset på 10 km inom taket"
+  },
+  {
+   "week": "v.51",
+   "date": "2026-12-20",
+   "text": "800 m sammanhängande crawl"
+  },
+  {
+   "week": "v.53",
+   "date": "2027-01-03",
+   "text": "1000 m sammanhängande crawl. Sista veckan med 10 km-tak"
+  },
+  {
+   "week": "v.3",
+   "date": "2027-01-24",
+   "text": "Långpass 12 km, 1200 m sammanhängande crawl"
+  },
+  {
+   "week": "v.7",
+   "date": "2027-02-21",
+   "text": "1500 m sammanhängande crawl"
+  },
+  {
+   "week": "v.10",
+   "date": "2027-03-14",
+   "text": "Testlopp 5 km (lördag): sätter måltempo för Kungsholmen Runt"
+  },
+  {
+   "week": "v.11",
+   "date": "2027-03-21",
+   "text": "2000 m sammanhängande crawl"
+  },
+  {
+   "week": "v.14",
+   "date": "2027-04-11",
+   "text": "Långpass 15 km, längsta före Kungsholmen Runt"
+  },
+  {
+   "week": "v.17",
+   "date": "2027-05-02",
+   "text": "2500 m sammanhängande crawl"
+  },
+  {
+   "week": "v.18",
+   "date": "2027-05-09",
+   "text": "Kungsholmen Runt 10 km, lördag 8 maj"
+  },
+  {
+   "week": "v.21",
+   "date": "2027-05-30",
+   "text": "Första passet i öppet vatten (våtdräkt, från 14 °C)"
+  },
+  {
+   "week": "v.24",
+   "date": "2027-06-20",
+   "text": "3000 m sammanhängande i bassäng"
+  },
+  {
+   "week": "v.25",
+   "date": "2027-06-27",
+   "text": "Genrep i öppet vatten 2500-3000 m"
+  },
+  {
+   "week": "v.27",
+   "date": "2027-07-11",
+   "text": "Vansbrosimningen 3000 m, lördag 10 juli"
+  },
+  {
+   "week": "v.31",
+   "date": "2027-08-08",
+   "text": "Långpass 18 km i terräng"
+  },
+  {
+   "week": "v.35",
+   "date": "2027-09-05",
+   "text": "Långpass 24 km, programmets längsta"
+  },
+  {
+   "week": "v.38",
+   "date": "2027-09-26",
+   "text": "TCS Lidingöloppet 30 km, lördag 25 september"
+  }
+ ],
+ "assumptions": [
+  "10 km-taket gäller till och med v.53 2026. Från v.1 2027 släpps det stegvis: långpasset växer med ungefär 1 km var annan vecka till 15 km i april, hålls på 12-15 km under Vansbrofasen och växer sedan 2 km per vecka till 24 km i början av september. Stäm av takten med fysioterapeuten.",
+  "Startnivå simning är satt till ungefär 500 m sammanhängande crawl. Ligger du högre, hoppa fram i kolumnen Längsta sim i Veckoplan och behåll passens struktur.",
+  "Simkursen (måndag 19:00-19:30) antas gå under terminerna, ungefär till och med v.50 i höst och från v.1 till v.22 i vår. Veckor utan kurs: eget teknikpass 30-40 min samma dag. Simmar du 20 min lugnt före kursen blir måndagen ett fullvärdigt pass.",
+  "Öppet vatten från v.21 (slutet av maj) när vattnet nått 14-16 °C, i våtdräkt. Blir våren kall: skjut öppet vatten en vecka och låt bassängen bära distansen, den ligger redan på 3000 m v.24.",
+  "Torsbyresan (torsdag till söndag kring nyår) och eventuell semester: byt pass 1:1 mot lätt löpning och simning där du är. Långpasset är det pass som prioriteras om bara ett pass hinns med.",
+  "Tävlingsdatumen är hämtade från arrangörernas webbplatser i oktober 2026. Kontrollera dem när anmälan öppnar och justera veckorna 18, 27 och 38 om något flyttas."
+ ],
+ "principles": [
+  "Fem pass i veckan, högst ett pass per dag. Vilodagar torsdag och lördag. Aldrig två hårda dagar i rad.",
+  "Var fjärde vecka är lätt (ungefär 30 % lägre volym). Lätta veckor är markerade med gul veckotyp och är en del av programmet, inte något man tar igen.",
+  "Varje löppass börjar med 5 min gång eller lätt jogg, rörlighet (höftcirklar, utfall) och hoppövningar (2×10 hopp på stället, 2×10 skipp). Det är samma uppvärmning som i Midnattsloppet-planen.",
+  "Långpass från 12 km körs med gångpaus 1 min var 10:e minut. Från juli i kuperad terräng, och i de brantaste backarna går du. Det är tävlingstaktiken på Lidingö.",
+  "Intensitet: lätt = zon 2 och pratfart, tempo = zon 3-4 och pratsvårt, intervall = zon 4-5. Använd pulszonerna i Garmin och låt långpassen styras av tid och känsla, inte tempo.",
+  "Simning: teknik före volym. Räkna armtag per bassänglängd i distanspassen, simma bilateral andning och håll jämn fart i intervallerna. I öppet vatten är rak linje viktigare än hög fart.",
+  "När en vecka spricker, prioritera i denna ordning: 1) långpasset, 2) ett simpass, 3) kvalitetspasset, 4) resten. Gör aldrig om ett missat pass genom att dubbla nästa dag.",
+  "Lidingöfasen (juli till september) är programmets tyngsta period, med fyra löppass. Om kroppen protesterar: stryk fredagens lätta pass, inte långpasset."
+ ]
+}
